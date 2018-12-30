@@ -1,4 +1,4 @@
-## Student Loan Calculator
+# Student Loan Calculator
 
 The student loan calculator will ask the user to input their total loan amount at the end of their studies, the desired amount of years to pay it off,
 and the interest rate for the loan. Typically, the maximum amount of years to pay the loan is 10 years.
@@ -9,10 +9,10 @@ If the desired amount of years to pay it off is Y, the program will calculate th
 
 The program will interfaced with a GUI. The GUI chosen is tkinker due to its simplicity.
 
-# Requirements
+## Requirements
 If the user inputs a custom amount of years that is larger than the desired amount of years to pay it off, the program must stop and display an error message.
 If the user inputs a custom amount that will pay off the student loan before the desired amount of years, the program must stop and display a message.
 
-# Extras
+### Extras
 Make the GUI look nice
 Move into an .exe for possible download
